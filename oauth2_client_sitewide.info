@@ -1,0 +1,12 @@
+name = Oauth2 Client Sitewide
+description = A simple service for sitewide connections to OAuth2 services.
+core = 7.x
+php = 5.5
+
+dependencies[] = ctools
+dependencies[] = service_container
+dependencies[] = service_container_symfony
+dependencies[] = registry_autoload
+dependencies[] = oauth2_client
+
+registry_autoload[] = PSR-4

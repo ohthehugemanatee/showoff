@@ -1,0 +1,11 @@
+<?php
+/**
+ * @file
+ * Main module file for the oauth2_client_sitewide module.
+ */
+
+/** 
+ * this file should only really handle:
+ * - the Ctools exportable settings
+ * - admin form for interacting with the above.
+ */

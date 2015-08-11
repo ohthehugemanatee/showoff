@@ -1,0 +1,3 @@
+services:
+  oauth2_client_sitewide:
+    class: \Drupal\oauth2_client_sitewide\OAuth2ClientSitewideController
